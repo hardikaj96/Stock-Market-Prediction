@@ -33,8 +33,6 @@ The 'Analysis output.png' file shows the line graph for predicted and actual ope
 
 ## Authors
 
+* **Hardik Jivani** - (https://github.com/hardikaj96)
 * **Ashutosh Kale** - (https://github.com/ak1997)
 * **Omkaar Khanvilkar** - (https://github.com/omkaar23)
-* **Hardik Jivani** - (https://github.com/hardikaj96)
-* **Ishan Madan** - (https://github.com/ishanmadan1996)
-* **Prathamesh Kumkar** - (https://github.com/iPrathamKumkar)
